@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<FileConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<FileConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <BaseUrl>https://oiosaml-demoidp.dk:20001/</BaseUrl>
-  <certThumbPrint>7AD6A798E0D0A14B1746137CD86A5930356D97EF</certThumbPrint>
+  <certThumbPrint>A402BB172929AE0D0ADA62F6864329C35DC29483</certThumbPrint>
   <certLocation>LocalMachine</certLocation>
   <certStore>My</certStore>
 </FileConfig>
